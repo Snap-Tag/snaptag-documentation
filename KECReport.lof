@@ -1,0 +1,24 @@
+\acswitchoff 
+\noaddvspace 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Gantt Chart\relax }}{5}{figure.caption.8}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Block diagram for the working mechanism of the system\relax }}{10}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Dataset overview for the A good CHoiCe\relax }}{13}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Visual representation of E MNIST dataset\relax }}{13}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Configured layers of Convolution Neural Network\relax }}{14}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces UseCase Diagram\relax }}{18}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Activity Diagram\relax }}{19}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Incremental Model for development of SnapTag\relax }}{20}{figure.caption.17}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Original image\relax }}{22}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Threshold Image\relax }}{22}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Closed Image\relax }}{22}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Canny Edge\relax }}{22}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Hough Line Image\relax }}{22}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Intersection Point Image\relax }}{22}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces K-means Clustering Image\relax }}{23}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Preprocessing Output Image\relax }}{23}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Homepage\relax }}{23}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Image Capturing \relax }}{24}{figure.caption.23}%
